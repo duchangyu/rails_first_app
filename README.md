@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 == this is first rail app
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +27,7 @@ Things you may want to cover:
 
 Please feel free to use a different markup language if you do not plan to run
 <tt>rake doc:app</tt>.
+=======
+rails_first_app
+===============
+>>>>>>> 1b7a458e634c80915580dc1162f3670521ffdcc6
